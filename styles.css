@@ -1,0 +1,15 @@
+ .maindiv{
+ 
+width: 70%;
+position: absolute;
+transform: translate(-50%,-50%);
+background-image: url('https://rukminim1.flixcart.com/flap/50/50/image/53289e29bcbcb6c6.jpg?q=50');
+
+
+}
+ @keyframes slider{
+0%{ background-image: url(https://rukminim1.flixcart.com/flap/50/50/image/53289e29bcbcb6c6.jpg?q=50);     }
+35%{    background-image: url(https://rukminim1.flixcart.com/flap/50/50/image/c4699cfef1e72b6b.jpg?q=50);}
+75%{background-image: url(https://rukminim1.flixcart.com/flap/844/140/image/aa682296ac9b8e2f.jpg?q=50);  }
+
+}
